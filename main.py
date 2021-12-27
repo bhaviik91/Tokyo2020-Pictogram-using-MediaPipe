@@ -126,7 +126,7 @@ def main():
         cv.imshow('Tokyo2020 Pictogram', debug_image02)
 
     cap.release()
-    cv.destroyAllWindows()
+    #cv.destroyAllWindows()
 
 
 def draw_stick_figure(
